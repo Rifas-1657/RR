@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.design-cache/
+.v0-trash/
+.vercel/
+
+# Environment variables
+.env*.local
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
+=======
+.env
+.env.*
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/iqrabook/frontend/.next/
+>>>>>>> 3e16b3ee88aea680afdfb06c89289f5496c87a38
